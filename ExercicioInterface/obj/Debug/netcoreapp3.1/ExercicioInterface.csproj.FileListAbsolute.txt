@@ -1,0 +1,13 @@
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.csprojAssemblyReference.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.AssemblyInfoInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.AssemblyInfo.cs
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.csproj.CoreCompileInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.exe
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.deps.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.runtimeconfig.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.runtimeconfig.dev.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\bin\Debug\netcoreapp3.1\ExercicioInterface.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\ExerciciosTreino\ExercicioInterface\ExercicioInterface\obj\Debug\netcoreapp3.1\ExercicioInterface.genruntimeconfig.cache
